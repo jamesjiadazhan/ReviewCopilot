@@ -32,7 +32,7 @@ Transparency           → All codes are written in Python. Use/change them when
 
 # Functions
 ## Abstract Screening
-1. Upload RIS file
+1. Upload deduplicated CSV file (recommended deduplication website: https://sr-accelerator.com/, to prepare the files for SR accelerator: use Zotero to import all litearture and then export RIS file)
 2. Define inclusion and exclusion criteria
 3. Get AI reasoned decisions
 ## Full-Text Analysis
@@ -103,11 +103,7 @@ full_text_PICO_DR(
     )
 ```
 
-# Get start by using your data for title abstract screening
+# Get start by using your data for title abstract screening and full text screening
 
-1.
-2.
-3. 
-
-# Get start by using your data for full text screening
-
+1. Modify the screening criteria
+2. Change your exclusion keywords (these are manual exclusion keywords: whenever they are mentioned in the text in an article, this article is excluded. No AI is used in this process)
