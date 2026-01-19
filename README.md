@@ -1,7 +1,7 @@
 # ReviewCopilot
 **This is the open-source code repository for ReviewCopilot, an AI screener for systematic reviews. No limitation to use and distribute the codes for commerical and academic uses. **
 
-# ** Review Copilot is published at the Systematic Reviews! (link.springer.com/article/10.1186/s13643-025-02997-8)**
+# ** Review Copilot is published in the Systematic Reviews, a peer reviewed journal! (link.springer.com/article/10.1186/s13643-025-02997-8)**
 
 
 # Welcome to the AI area of Article Screening
